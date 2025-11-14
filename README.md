@@ -36,13 +36,6 @@ I am especially interested in:
 
 ---
 
-# 🌐 **Socials**
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/loris.sogliuzzo)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sogliuzzo.loris)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/loris-sogliuzzo-601368323)
-
----
-
 # 💻 **Tech Stack**
 ### **Languages**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -80,6 +73,7 @@ I am especially interested in:
 ### 🔶 **Optimisation par Co-évolution Coopérative**
 **Description :**
 Optimisation d'une surface d’éclairage sous contraintes via des algorithmes génétiques coopératifs.
+
 **Cooperative Co-evolution Optimization:**
 Constrained illumination optimization using cooperative genetic algorithms.
 
@@ -93,6 +87,7 @@ Optimisation, Algorithmes Génétiques / Optimization, Genetic Algorithms
 ### 🔶 **IA pour le Jeu de Dames**
 **Description :**
 Réseau de neurones évaluant des positions de jeu, entraîné par algorithmes génétiques.
+
 **Checkers AI:**
 Neural network for game position evaluation, trained with genetic algorithms.
 
@@ -106,6 +101,7 @@ Réseaux de Neurones, Optimisation Évolutive / Neural Networks, Evolutionary Op
 ### 🔶 **Algorithmique des Graphes**
 **Description :**
 Implémentation de Dijkstra, Ford-Fulkerson, etc.
+
 **Graph Algorithms:**
 Implementation of Dijkstra, Ford-Fulkerson, etc.
 
@@ -119,6 +115,7 @@ Algorithmique avancée, Structures de données / Advanced Algorithms, Data Struc
 ### 🔶 **Projet Bomberman (Langage C)**
 **Description :**
 Projet en C avec gestion fine de la mémoire et logique temps réel.
+
 **Bomberman Project (C Language):**
 C project with fine memory management and real-time logic.
 
@@ -162,3 +159,10 @@ C, Gestion mémoire / Memory Management
 ---
 
 [![](https://visitcount.itsvg.in/api?id=SogliuzzoL&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+# 🌐 **Socials**
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/loris.sogliuzzo)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sogliuzzo.loris)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/loris-sogliuzzo-601368323)
