@@ -26,7 +26,7 @@ building the pipeline around them — datasets, evaluation protocol, CI, contain
 
 ## Toolbox
 
-Python · PyTorch · pandas / NumPy · Rust · C / C++ · Docker · Git and CI · Linux · Proxmox VE / Ceph
+Python · PyTorch · pandas / NumPy · C / C++ · Docker · Git and CI · Linux · Proxmox VE / Ceph
 
 ## Contact
 
