@@ -10,7 +10,7 @@ building the pipeline around them — datasets, evaluation protocol, CI, contain
 
 | Paper | Venue |
 |---|---|
-| Player-Specific Policy Adaptation in Elite Chess with MoE-LoRA and Limited Search | BNAIC/BeNeLearn 2026 — oral |
+| [Player-Specific Policy Adaptation in Elite Chess with MoE-LoRA and Limited Search](https://openreview.net/forum?id=QN9RtxvZGv) | BNAIC/BeNeLearn 2026 — oral |
 | [Toward Modeling Player-Specific Chess Behaviors](https://arxiv.org/abs/2605.11893) | arXiv:2605.11893 (cs.AI) |
 
 ## Selected repositories
