@@ -18,11 +18,13 @@ building the pipeline around them — datasets, evaluation protocol, CI, contain
 | Repository | Content | Stack |
 |---|---|---|
 | [ChessBehaviors](https://github.com/SogliuzzoL/ChessBehaviors) | Research code: PGN dataset build, Maia-2 variants (fine-tuning, nucleus pruning, MCTS, MoE-LoRA), JSD and style-space evaluation, LaTeX tables | Python, PyTorch |
-| [Toward-Modeling-Player-Specific-Chess-Behaviors](https://github.com/SogliuzzoL/Toward-Modeling-Player-Specific-Chess-Behaviors) | Code and artifacts of the arXiv paper | Python, PyTorch |
+| [OxonoProject](https://github.com/SogliuzzoL/OxonoProject) | Agents for the Oxono board game: minimax, MCTS with PUCT, AlphaZero, Cython training loop | Python, Cython, PyTorch |
+| [PP.GG](https://github.com/SogliuzzoL/PP.GG) | League of Legends custom-game MMR tracker: desktop client, Flask API, Discord bot, Docker | Flask, Discord, Docker |
+| [AIPM-SP500](https://github.com/SogliuzzoL/AIPM-SP500) | Gaussian HMM regime detection on the S&P 500, feature engineering and backtest | Python, hmmlearn |
+| [OS201](https://github.com/SogliuzzoL/OS201) | Operating systems labs: ROMFS parsing, hand-written allocator, coroutines, memory protection, seccomp, sockets | C, x86-64 assembly |
 | [IN204_projet](https://github.com/SogliuzzoL/IN204_projet) | Doom-style 2.5D raycasting engine written from scratch | C++, SDL2 |
-| [Vote](https://github.com/SogliuzzoL/Vote) | Poll web app with Discord OAuth2 login and an admin panel | Flask, SQLAlchemy |
-| [LoLElo](https://github.com/SogliuzzoL/LoLElo) | Discord bot for 1v1 rankings with Elo and TrueSkill | Python |
-| [Linker-DiscordBot](https://github.com/SogliuzzoL/Linker-DiscordBot) | Account-linking codes between Discord and third-party services | Node.js, MongoDB |
+| [Thermostat-Radiateur](https://github.com/SogliuzzoL/Thermostat-Radiateur) | Raspberry Pi thermostat driving a 433 MHz RF heater | Python, GPIO |
+| [chauffe](https://github.com/SogliuzzoL/chauffe) | CPU and GPU load generator in a single C binary, no Python dependency | C, CUDA |
 
 ## Toolbox
 
